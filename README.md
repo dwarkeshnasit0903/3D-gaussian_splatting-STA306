@@ -39,6 +39,14 @@ them onto a 2D screen.
 - Resolution: 4x downscale
 - Checkpoints: 7000, 15000, 30000
 
+## How to view .ply on SuperSplat Editor
+- Go to the website URL: [SuperSplat](https://superspl.at/editor)
+- Click on 'File' option which will be available on left upper side
+- Select 'Import' option
+- Upload the file from your device download folder
+- You can now play with the environment
+
+
 ## Reference
 Kerbl et al., *3D Gaussian Splatting for Real-Time Radiance Field Rendering*, 
 SIGGRAPH 2023. [Paper](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
